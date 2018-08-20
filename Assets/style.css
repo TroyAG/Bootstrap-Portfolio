@@ -1,0 +1,76 @@
+.navbar-brand {
+    color: white;
+    background-color: #4aaaa5;
+    width:250px;
+    height: 85px;
+    font-size: 38px;
+   color: white          !important;
+   text-align: center;
+   margin-left: 25%;
+
+}
+
+nav {
+    font-family: 'Georgia', Times, "Times New Roman", serif;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.navbar-nav {
+    margin-left: 60%;
+}
+
+.nav-item {
+    margin-left:10%;
+}
+
+.navbar {
+    background-color: #d6d5d5       !important;
+}
+
+body {
+    background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/EbyCIUQPl/videoblocks-abstract-simple-black-and-white-low-poly-waving-3d-surface-as-elegant-pattern-environment-grey-geometric-vibrating-environment-or-pulsating-background-in-cartoon-low-poly-popular-stylish-3d-design_bievr5vu7z_thumbnail-full01.png);
+}
+
+.jumbotron {
+    background-color: #ffffff;
+    height: 960px;
+    position:relative;
+    margin-top: 8%;
+    margin-bottom: 15%;
+    width: 1000px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-overflow: ellipsis;
+    overflow:  auto;
+}
+
+img {
+    width: 30em;
+    height: 30em;
+}
+
+.lead {
+    font-size: 1.7rem;
+    display:block;
+    color: #777777;
+
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #666666;
+    color: white;
+    text-align: center;
+    border-style: solid;
+    border-bottom-width:0px;
+    border-top-width: 9px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-color: #4aaaa5;
+}
+
+.copyright {
+    padding-top: 2%;
+   }
