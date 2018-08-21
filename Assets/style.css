@@ -6,7 +6,7 @@
     font-size: 38px;
    color: white          !important;
    text-align: center;
-   margin-left: 25%;
+   margin-left: 12%;
 
 }
 
@@ -81,4 +81,8 @@ img {
     width: 30rem;
     margin: 1rem;
 
+   }
+
+   #exampleFormControlTextarea1 {
+       height: 16rem;;
    }
